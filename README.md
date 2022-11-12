@@ -17,7 +17,7 @@
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmachadom4&layout=compact&theme=vision-friendly-dark"  alt="lucasmachadom4's most languages"/>
 </p>
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
   <a href="https://www.linkedin.com/in/lucas-machado-marques/" target="_blank">
